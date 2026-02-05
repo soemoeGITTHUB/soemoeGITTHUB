@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi there, I'm Soe Moe Naing! 👋
 
@@ -7,7 +7,7 @@ I am a passionate CS Student and developer currently learning and working on sma
 
 
 - 🌱 I’m currently learning Java , Python and DBMS
-- 🌐 soemoenaing.site
+- 🌐 https://soemoenaing.site
 - 📫 How to reach me: soemoen900@gmail.com
 
 - ### 🛠 Tech Stack
