@@ -3,7 +3,7 @@
 # Hi there, I'm Soe Moe Naing! 👋
 
 ### 🚀 About Me
-I am a passionate CS Student and developer currently learning and working on small projects in Java and Pythons and Database realted.  I love building things that solve real-world problems.
+I am a passionate CS Student and developer currently learning and working on small projects in Java and Pythons and Database related.  I love building things that solve real-world problems.
 
 
 - 🌱 I’m currently learning Java , Python and DBMS
