@@ -12,7 +12,7 @@
 
 <!-- ABOUT SECTION -->
 <div align="center">
-  <h3>💫 About Me</h3>
+  <h3> About Me</h3>
   <p>
     🎓 Studying Computer Science at <b>University of Computer Studies, Taungoo</b> 🇲🇲<br/>
     🌐 Check out my work on my portfolio: <a href="https://soemoenaing.site">soemoenaing.site</a><br/>
@@ -54,7 +54,7 @@
 
 <!-- TOP PROJECTS WITH GRID ALIGNMENT -->
 <!-- Note: Change YOUR-REPO-1 and YOUR-REPO-2 to your actual repository names -->
-<div align="center">
+<!-- <div align="center">
   <h3>📂 Top Projects</h3>
   <table border="0" cellpadding="5">
     <tr>
@@ -70,7 +70,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <br/>
 
